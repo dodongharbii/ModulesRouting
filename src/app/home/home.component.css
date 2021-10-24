@@ -1,0 +1,55 @@
+.home-container
+{
+    display: flex;
+    justify-content: center;
+}
+
+.prog
+{
+  width: 400px;
+  height: 400px;
+}
+
+.prog-pic
+{
+  margin-top: 60px;
+}
+
+.display-text
+{
+    margin-top: 60px;
+    margin-right: 200px;
+}
+
+.h1
+{
+  font-family: 'Rubik', sans-serif;
+  color: white;
+  font-size: 60px;
+  line-height: 60px;
+}
+
+.h4
+{
+  font-family: 'Urbanist', sans-serif;
+  font-weight: bold;
+  color: rgb(130, 130, 131);
+  margin-top: 15px;
+}
+
+.displaybtn
+{
+  margin-top: 20px;
+  border-width: 2px;
+}
+
+.prembtn
+{
+  border-color: limegreen;
+  color: limegreen;
+}
+
+.prembtn:hover
+{
+    color: white;
+}

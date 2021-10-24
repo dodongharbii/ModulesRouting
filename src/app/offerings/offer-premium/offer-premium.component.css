@@ -1,0 +1,22 @@
+.premium-container
+{
+    display: flex;
+    margin-left: 250px;
+}
+
+.premium
+{
+    width: 400px;
+    height: 400px;
+}
+
+.info-text
+{
+    margin-top: 70px;
+    color: whitesmoke;
+}
+
+.h4
+{
+    color: rgb(130, 130, 131);
+}

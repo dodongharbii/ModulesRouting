@@ -1,0 +1,27 @@
+.maintenance-container
+{
+    margin-top: 50px;
+}
+
+.robot
+{
+    width: 400px;
+    height: 400px;
+}
+
+.warning-text
+{
+    margin-top: 30px;
+    margin-left: 400px;
+    color: whitesmoke;
+}
+
+.h4
+{
+    margin-left: 150px;
+}
+
+.taxi-pic
+{
+    margin-left: 500px;
+}
